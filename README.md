@@ -1,5 +1,7 @@
 # ONG CONECTADA
 
+Acesse o site: https://github.com/barbosathamires/Projeto_ONG_Entrega-I
+
 Segue mais uma atividade prática da matéria de Desenvolvimento Front-End Para Web
 Aplicada pela Universidade Cruzeiro do Sul.
 
