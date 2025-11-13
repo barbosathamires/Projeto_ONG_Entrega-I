@@ -17,6 +17,7 @@ O site da ONG Conectada tem como objetivo divulgar os projetos sociais da organi
 </ul>
 
 <h1>🧰 Tecnologias Utilizadas</h1>
+<ul>
   <li>HTML5</li>
   <li>CSS3</li>
   <li>JAVASCRIPT(utilizado para máscaras e validações de formulário)</li>
